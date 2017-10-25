@@ -15,7 +15,7 @@ Use [www.sqlteaching.com](http://www.sqlteaching.com/) or [sqlbolt.com](http://s
 ### Instructions
 1. Create a table called Person that records a person's ID, Name, Age, Height ( in cm ), City, FavoriteColor. 
     * ID should be an auto-incrementing id/primary key - Use type: INTEGER PRIMARY KEY AUTOINCREMENT
-    (  create table Person (
+    (  Create Table Person (
   id Integer Primary Key Autoincrementing,
     name NVarchar(100),
     age Integer,
